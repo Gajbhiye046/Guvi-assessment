@@ -1,0 +1,5 @@
+Important - 
+Download and extract contents of the below files to get English-German/english french translation pairs dataset from
+https://www.manythings.org/anki/
+	1.deu-eng.zip
+	2.fra-eng.zip
